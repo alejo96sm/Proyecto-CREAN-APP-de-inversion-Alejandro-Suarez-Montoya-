@@ -1,0 +1,8 @@
+﻿numero_id,grupo_edad,desc_genero,desc_segmento,desc_tipo_de_vivienda,ingresos_mensuales,estimador_ingreso,total_egresos_mensuales,total_activos,total_pasivos,total_patrimonio,tiene_cta_ahorro,tiene_cta_corriente,tiene_bolsillos,tiene_cdt,tiene_fiducuenta,tiene_investbot,tiene_inversion_virtual,saldo_promedio_ahorro,saldo_promedio_bolsillo,total_inversiones,es_inversionista
+2593420519808064216,50-65,MASCULINO,PERSONAL,SIN INFORMACION,0.0,,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0.0,0.0,4000000000.0,1
+6461577440366479541,65+,FEMENINO,PERSONAL,SIN INFORMACION,0.0,,0.0,0.0,0.0,0.0,0,0,0,0,1,0,1,0.0,0.0,300301973.0,1
+2345661706934454793,50-65,MASCULINO,PERSONAL,SIN INFORMACION,0.0,,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0.0,0.0,250000000.0,1
+7424871432258272341,36-49,FEMENINO,PERSONAL,SIN INFORMACION,0.0,,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0.0,0.0,120000000.0,1
+235142525070815136,65+,MASCULINO,PERSONAL,SIN INFORMACION,0.0,,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0.0,0.0,100200489.14,1
+1765497341331323503,65+,FEMENINO,PERSONAL,SIN INFORMACION,0.0,,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0.0,0.0,100000000.0,1
+8723636377973071121,26-35,FEMENINO,PERSONAL,SIN INFORMACION,0.0,,0.0,0.0,0.0,0.0,0,0,0,1,0,0,0,0.0,0.0,100000000.0,1

@@ -1,0 +1,9 @@
+﻿Variable,Mediana_inversion_menor,Mediana_inversion_mayor,Ratio_mayor_menor
+total_activos,48917000.0,65007000.0,1.3289245047733917
+total_patrimonio,27075999.0,38814000.0,1.433520513869128
+estimador_ingreso,5233833.49,5486671.255,1.048308331834225
+ingresos_mensuales,5072386.0,5136203.0,1.0125812586029532
+saldo_promedio_ahorro,1360446.81,2255577.115,1.6579678811551626
+saldo_promedio_bolsillo,76088.06,52285.706666666665,0.6871736073526735
+meses_activos_bolsillo,3.0,3.0,1.0
+num_productos_no_inversion,2.0,2.0,1.0

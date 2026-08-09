@@ -1,0 +1,11 @@
+﻿Ranking,Variable,Importancia,Importancia_pct
+1,tiene_bolsillos,0.6991419,69.91419
+2,saldo_maximo_bolsillo,0.069382824,6.9382825
+3,meses_activos_bolsillo,0.058272276,5.8272276
+4,saldo_promedio_bolsillo,0.042537864,4.2537866
+5,liquidez,0.011356426,1.1356426
+6,saldo_promedio_ahorro,0.011003096,1.1003096
+7,grupo_edad_65+,0.010882707,1.0882708
+8,total_activos,0.0099984,0.99983996
+9,desc_segmento_PERSONAL,0.008876484,0.8876484
+10,grupo_edad_50-65,0.0069462988,0.69462985
